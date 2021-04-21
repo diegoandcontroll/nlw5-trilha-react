@@ -17,7 +17,7 @@ yarn or npm
 To start the app locally, run:
 
 ```sh
-yarn start
+yarn dev or start 
 ```
 
 ## License
